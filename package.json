@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-image-demo",
+  "version": "1.0.0",
+  "description": "docker nodejs image demo",
+  "author": "Vinicius Moll",
+  "license": "MIT",
+  "main": "app.js",
+  "keywords": [
+    "nodejs",
+    "bootstrap",
+    "express"
+  ],
+  "dependencies": {
+    "cluster": "^0.7.7",
+    "express": "^4.16.4",
+    "http": "0.0.0",
+    "os": "^0.1.1"
+  }
+}
