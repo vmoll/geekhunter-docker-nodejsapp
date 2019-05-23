@@ -52,7 +52,7 @@ No comando que acabamos de executar informamos -p 3000:3000, responsável por re
 
 Veja como a aplicação está funcional e operante, acessando http://localhost:3000, e receberá a mensagem “Hello Geeks!”:
 
-Observação importante: criei aqui uma aplicação bem simples, apenas para demonstrar que é possível realizar o deploy na imagem Docker que criamos e nosso foco principal é a criação e execução de containers usando Docker. Caso queria criar uma aplicação completa, pode utilizar algum gerador como o express-generator. Para isso execute o seguintes comandos:
+***Observação importante:*** criei aqui uma aplicação bem simples, apenas para demonstrar que é possível realizar o deploy na imagem Docker que criamos e nosso foco principal é a criação e execução de containers usando Docker. Caso queria criar uma aplicação completa, pode utilizar algum gerador como o express-generator. Para isso execute o seguintes comandos:
 
 ```
 $ npm install express-generator -g
