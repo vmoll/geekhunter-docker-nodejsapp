@@ -12,7 +12,7 @@
   ],
   "dependencies": {
     "cluster": "^0.7.7",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "http": "0.0.0",
     "os": "^0.1.1"
   }
